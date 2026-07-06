@@ -1,0 +1,9 @@
+{
+  "name": "fleet-of-one-free",
+  "description": "Free starter skills for running AI coding agents: proof-of-production, bug-first TDD, and multi-agent lane discipline. MIT.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fleet of One",
+    "url": "https://fleetofone.dev"
+  }
+}

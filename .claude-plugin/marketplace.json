@@ -1,0 +1,16 @@
+{
+  "name": "fleet-of-one",
+  "owner": {
+    "name": "Fleet of One"
+  },
+  "metadata": {
+    "description": "Free starter skills for running a production SaaS with AI coding agents: proof-of-production gates, bug-first TDD, and multi-agent lane discipline. The full Fleet of One pack lives at fleetofone.dev."
+  },
+  "plugins": [
+    {
+      "name": "fleet-of-one-free",
+      "source": "./",
+      "description": "Free starter skills for running AI coding agents: proof-of-production, bug-first TDD, and multi-agent lane discipline. MIT."
+    }
+  ]
+}
